@@ -51,19 +51,21 @@
               "margin-bottom": "0"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "14px"
             },
             ".mbr-section-subtitle": {
               "text-align": "center",
-              "font-size": "30px"
+              "font-size": "30px",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
             },
             ".mbr-section-title": {
               "font-size": "60px",
               "text-align": "center",
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
             }
           },
           "_params": {
@@ -138,8 +140,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
+              "font-family": "'Arvo', serif"
             },
             ".link": {
               "font-size": "0.875rem"
@@ -189,9 +191,9 @@
             "bgColor": "#666666",
             "fontSize": 0.875,
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arvo",
+              "url": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
+              "css": "'Arvo', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -806,7 +808,7 @@
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p>Арматура рифленая А3\n</p><p>Арматура гладкая А1\n</p><p>Катанка\n</p><p>Балка, швеллер\n</p><p>Балки (Двутавр)\n</p><p>Балки (Двутавр) низколегированные\n</p><p>Швеллер\n</p><p>Швеллер низколегированный\n</p><p>Швеллер гнутый\n</p><p>Уголок\n</p><p>Уголок равнополочный\n</p><p>Уголок равнополочный низколегированный\n</p><p>Уголок неравнополочный\n</p><p>Уголок нержавеющий никельсодержащий</p>",
+          "text1": "<p>Арматура рифленая А3\n</p><p>Арматура гладкая А1\n</p><p><br></p>",
           "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
           "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -985,8 +987,8 @@
             ".mbr-section-title": {
               "font-weight": "700",
               "font-size": "46px",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
@@ -997,11 +999,17 @@
             },
             ".mbr-section-subtitle B": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
             }
           },
           "_params": {
@@ -1277,7 +1285,7 @@
           "form": {
             "action": "redon1on@etlgr.com",
             "alerts": {
-              "success": "Отправлено!"
+              "success": "Success"
             },
             "fields": {
               "name": {
